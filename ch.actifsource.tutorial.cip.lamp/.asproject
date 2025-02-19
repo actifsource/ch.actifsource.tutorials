@@ -4,9 +4,11 @@
   <resourcepaths>
     <path>asrc</path>
     <builtin>cip</builtin>
+    <builtin>codesnippet</builtin>
     <builtin>core</builtin>
     <builtin>datatype</builtin>
     <builtin>diagram</builtin>
+    <builtin>modelsnippet</builtin>
   </resourcepaths>
   <templatepaths />
   <ignoreWhitespaceAtLineEnd>true</ignoreWhitespaceAtLineEnd>
@@ -17,12 +19,7 @@
       <path>cip-gen</path>
       <build>
         <buildConfig>e2c506e2-74c4-11e0-a531-4537b2bc6a0b</buildConfig>
-      </build>
-      <build>
-        <buildConfig>dde09569-3b0e-11e2-8de0-a368f9740e37</buildConfig>
-      </build>
-      <build>
-        <buildConfig>a70298e4-3de0-11e2-9941-ff65f3a86106</buildConfig>
+        <resource>dc0ccb3f-eeb2-11ef-a3fc-b5c521c52e06</resource>
       </build>
     </targetpath>
   </targetpaths>

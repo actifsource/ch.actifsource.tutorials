@@ -1,5 +1,5 @@
 /*********************************************************************
-	SYSTEM LampSystem
+	SYSTEM Lamp_CipSystem
 	IMPLEMENTATION  LampImplementation
 	Trace Interface Header File for CIP MACHINE mLampUnit
 	Filename: tLampUnit.h
@@ -15,24 +15,8 @@
 #if !defined(_tLampUnit_h_)
 	#define _tLampUnit_h_
 
-/* Text Switch Constants */
-
-#if defined(_TRACE__)
-	#undef _TRACE__
-#endif
-
-#if defined(_UT_INPUT_)
-	#undef _UT_INPUT_
-#endif
-
-#if defined(_UT_OUTPUT_)
-	#undef _UT_OUTPUT_
-#endif
-
 /* Include Files */
 
-#include <stdio.h>
-#include <string.h>
 #include "mLampUnit.h"
 
 #endif // _tLampUnit_h_
@@ -41,4 +25,4 @@
 	End of Trace Interface Header File for CIP MACHINE mLampUnit
 *********************************************************************/
 
-// Actifsource ID=[1cfc7444-9d1b-11e1-90e4-e1fd5739c0f6,0e3da843-613c-11e2-8c6f-0d0126f0c0ea,16966e79-613e-11e2-8c6f-0d0126f0c0ea,ba697f7b-2723-11e1-b14b-53cb3f44a5b8,16997bbd-613e-11e2-8c6f-0d0126f0c0ea,H5mcBsCVspZwHo19jjOJXllSmUg=]
+/* Actifsource ID=[1cfc7444-9d1b-11e1-90e4-e1fd5739c0f6,dc0ccb3f-eeb2-11ef-a3fc-b5c521c52e06,bc124dc7-eea7-11ef-a3fc-b5c521c52e06,ba697f7b-2723-11e1-b14b-53cb3f44a5b8,dc109bd3-eeb2-11ef-a3fc-b5c521c52e06,x+q7BXGwUlN7v0PnQXKnaown4aw=] */

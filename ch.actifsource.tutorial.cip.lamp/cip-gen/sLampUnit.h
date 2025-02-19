@@ -1,5 +1,5 @@
 /*********************************************************************
-	SYSTEM LampSystem
+	SYSTEM Lamp_CipSystem
 	IMPLEMENTATION LampImplementation
 	Header File for CIP SHELL sLampUnit
 	Filename: sLampUnit.h
@@ -41,7 +41,7 @@
 *********************************************************************/
 
 enum eMSG_LampUnit
-	{F_C1_Push_ = 1, F_C1_Release_ = 2, F_C2_Dark_ = 3, F_C2_Bright_ = 4};
+	{F_C1_Push_ = 1, F_C1_Release_ = 2, F_C2_Bright_ = 3, F_C2_Dark_ = 4};
 
 /********************************************************************/
 
@@ -57,7 +57,7 @@ enum eMSG_LampUnit
 	#define _eMSG_Lamp_
 
 	enum eMSG_Lamp
-		{C2_Dark = 1, C2_Bright = 2};
+		{C2_Bright = 1, C2_Dark = 2};
 
 #endif // _eMSG_Lamp_
 
@@ -111,4 +111,4 @@ void iCHAN_(void);
 /*********************************************************************
 	End of CIP UNIT Header File for CIP SHELL sLampUnit
 *********************************************************************/
-// Actifsource ID=[b7934a9b-259a-11e1-ae2f-a14f3e396de6,0e3da843-613c-11e2-8c6f-0d0126f0c0ea,16966e79-613e-11e2-8c6f-0d0126f0c0ea,ba697f7b-2723-11e1-b14b-53cb3f44a5b8,16997bbd-613e-11e2-8c6f-0d0126f0c0ea,169c8802-613e-11e2-8c6f-0d0126f0c0ea,wycBHlP9VANm8/edRaUpuLBzYLA=]
+/* Actifsource ID=[b7934a9b-259a-11e1-ae2f-a14f3e396de6,dc0ccb3f-eeb2-11ef-a3fc-b5c521c52e06,bc124dc7-eea7-11ef-a3fc-b5c521c52e06,ba697f7b-2723-11e1-b14b-53cb3f44a5b8,dc109bd3-eeb2-11ef-a3fc-b5c521c52e06,dc149378-eeb2-11ef-a3fc-b5c521c52e06,zEX7QIyOMb2Wg/m8TlaGOwpVox8=] */
