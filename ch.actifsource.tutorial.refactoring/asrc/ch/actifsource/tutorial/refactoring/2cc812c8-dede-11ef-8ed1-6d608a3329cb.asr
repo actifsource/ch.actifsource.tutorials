@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="2cc812c8-dede-11ef-8ed1-6d608a3329cb">
+  <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="dd501cdc-df05-11ef-8ed1-6d608a3329cb" type="resource" guid="dd4fceb8-df05-11ef-8ed1-6d608a3329cb" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="2cc860ea-dede-11ef-8ed1-6d608a3329cb" type="resource" guid="72c004d3-e4d4-11de-b765-afe1ffbc4f47" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="2cc9243b-dede-11ef-8ed1-6d608a3329cb" type="literal">Refactoring</object>
+  </predicate>
+  <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="dd501cdc-df05-11ef-8ed1-6d608a3329cb">
+      <resource guid="dd4fceb8-df05-11ef-8ed1-6d608a3329cb">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="dd4ff5ca-df05-11ef-8ed1-6d608a3329cb" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="df15256d-df05-11ef-8ed1-6d608a3329cb" type="literal">ch.actifsource.tutorial.refactoring.CallGroupRefactoringAspect</object>
+        </predicate>
+        <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="dd501cdb-df05-11ef-8ed1-6d608a3329cb" type="resource" guid="771729f8-e4d4-11de-b765-afe1ffbc4f47" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

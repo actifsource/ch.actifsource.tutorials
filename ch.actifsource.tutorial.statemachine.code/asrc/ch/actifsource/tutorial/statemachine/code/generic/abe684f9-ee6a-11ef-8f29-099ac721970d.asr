@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="abe684f9-ee6a-11ef-8f29-099ac721970d">
+  <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="39e058dc-ee6b-11ef-8f29-099ac721970d" type="resource" guid="39e058d8-ee6b-11ef-8f29-099ac721970d" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="abe6ac0b-ee6a-11ef-8f29-099ac721970d" type="resource" guid="cf0752a5-0785-11db-af79-437b1ec5a51d" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="abe6d31c-ee6a-11ef-8f29-099ac721970d" type="literal">MyNameProviderLiteral</object>
+  </predicate>
+  <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39e058dc-ee6b-11ef-8f29-099ac721970d">
+      <resource guid="39e058d8-ee6b-11ef-8f29-099ac721970d">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39e058da-ee6b-11ef-8f29-099ac721970d" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="3ae0fffd-ee6b-11ef-8f29-099ac721970d" type="literal">ch.actifsource.tutorial.statemachine.code.generic.MyNameProviderLiteralAspect</object>
+        </predicate>
+        <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39e058db-ee6b-11ef-8f29-099ac721970d" type="resource" guid="cf0752a4-0785-11db-af79-437b1ec5a51d" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="c0cc10c6-44d1-11e4-ae59-0560f6197c88">
+    <object statement-guid="abe6fa2d-ee6a-11ef-8f29-099ac721970d" type="resource" guid="c0ce573f-d9ab-11e3-a7ad-7da7e63417a5" />
+  </predicate>
+</resource>
+

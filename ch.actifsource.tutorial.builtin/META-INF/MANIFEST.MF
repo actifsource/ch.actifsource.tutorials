@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Builtin
+Bundle-SymbolicName: ch.actifsource.tutorial.builtin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: ch.actifsource.tutorial.builtin
+Export-Package: ch.actifsource.tutorial.builtin,
+ ch.actifsource.tutorial.builtin.javamodel
+Require-Bundle: ch.actifsource.core;bundle-version="11.6.0",
+ ch.actifsource.environment;bundle-version="11.6.0"

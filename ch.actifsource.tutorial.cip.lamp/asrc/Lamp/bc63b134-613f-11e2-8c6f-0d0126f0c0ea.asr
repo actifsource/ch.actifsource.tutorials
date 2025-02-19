@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="bc63b134-613f-11e2-8c6f-0d0126f0c0ea">
+  <owns predicate="4b51152c-3adb-11e2-88f8-27409ad332db">
+    <resource statement-guid="da152a04-613f-11e2-8c6f-0d0126f0c0ea" guid="da121cbd-613f-11e2-8c6f-0d0126f0c0ea">
+      <owns predicate="f47e4c30-3adc-11e2-9185-ed73e212ee54">
+        <resource statement-guid="1a402a8b-6140-11e2-8c6f-0d0126f0c0ea" guid="1a3ea3e8-6140-11e2-8c6f-0d0126f0c0ea">
+          <owns predicate="941252b7-3b05-11e2-8f18-c5d859cd47bf">
+            <resource statement-guid="240d0353-6140-11e2-8c6f-0d0126f0c0ea" guid="2409f610-6140-11e2-8c6f-0d0126f0c0ea" />
+          </owns>
+          <owns predicate="5d702796-3b06-11e2-8f18-c5d859cd47bf">
+            <resource statement-guid="205c5843-6140-11e2-8c6f-0d0126f0c0ea" guid="205ad1a0-6140-11e2-8c6f-0d0126f0c0ea" />
+          </owns>
+        </resource>
+        <resource statement-guid="895cfd9e-6140-11e2-8c6f-0d0126f0c0ea" guid="895b76fb-6140-11e2-8c6f-0d0126f0c0ea">
+          <owns predicate="5d702796-3b06-11e2-8f18-c5d859cd47bf">
+            <resource statement-guid="98fcc6f3-6140-11e2-8c6f-0d0126f0c0ea" guid="98fb4050-6140-11e2-8c6f-0d0126f0c0ea" />
+          </owns>
+        </resource>
+        <resource statement-guid="bde3565a-6140-11e2-8c6f-0d0126f0c0ea" guid="bde35657-6140-11e2-8c6f-0d0126f0c0ea">
+          <owns predicate="49ffa00b-3b09-11e2-8de0-a368f9740e37">
+            <resource statement-guid="d12aa3f5-6140-11e2-8c6f-0d0126f0c0ea" guid="d12aa3f2-6140-11e2-8c6f-0d0126f0c0ea" />
+          </owns>
+        </resource>
+      </owns>
+    </resource>
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="bc63b136-613f-11e2-8c6f-0d0126f0c0ea" type="resource" guid="087cbc2d-3ada-11e2-88f8-27409ad332db" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="bc6537d7-613f-11e2-8c6f-0d0126f0c0ea" type="literal">LampSystem_TestSuite</object>
+  </predicate>
+  <predicate guid="e4c826f6-3ada-11e2-88f8-27409ad332db">
+    <object statement-guid="beb0d5b3-613f-11e2-8c6f-0d0126f0c0ea" type="resource" guid="0e3da843-613c-11e2-8c6f-0d0126f0c0ea" />
+  </predicate>
+  <predicate guid="e4c826f7-3ada-11e2-88f8-27409ad332db">
+    <object statement-guid="bf8e1654-613f-11e2-8c6f-0d0126f0c0ea" type="resource" guid="16966e79-613e-11e2-8c6f-0d0126f0c0ea" />
+  </predicate>
+  <predicate guid="4b51152c-3adb-11e2-88f8-27409ad332db">
+    <object statement-guid="da152a04-613f-11e2-8c6f-0d0126f0c0ea">
+      <resource guid="da121cbd-613f-11e2-8c6f-0d0126f0c0ea">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="da121cbf-613f-11e2-8c6f-0d0126f0c0ea" type="resource" guid="44a5519c-3adb-11e2-88f8-27409ad332db" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="dbe52f16-613f-11e2-8c6f-0d0126f0c0ea" type="literal">LampOnOff</object>
+        </predicate>
+        <predicate guid="f47e4c30-3adc-11e2-9185-ed73e212ee54">
+          <object statement-guid="1a402a8b-6140-11e2-8c6f-0d0126f0c0ea">
+            <resource guid="1a3ea3e8-6140-11e2-8c6f-0d0126f0c0ea">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="1a402a8a-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="b8393001-3aea-11e2-a11d-5fa022f9bb7d" />
+              </predicate>
+              <predicate guid="941252b7-3b05-11e2-8f18-c5d859cd47bf">
+                <object statement-guid="240d0353-6140-11e2-8c6f-0d0126f0c0ea">
+                  <resource guid="2409f610-6140-11e2-8c6f-0d0126f0c0ea">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="240b7cb2-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="9f3030d1-3aea-11e2-a11d-5fa022f9bb7d" />
+                    </predicate>
+                    <predicate guid="a97c1ca2-3ade-11e2-9185-ed73e212ee54">
+                      <object statement-guid="24a8a71b-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="7b3ca46e-613c-11e2-8c6f-0d0126f0c0ea" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+              <predicate guid="5d702796-3b06-11e2-8f18-c5d859cd47bf">
+                <object statement-guid="205c5843-6140-11e2-8c6f-0d0126f0c0ea">
+                  <resource guid="205ad1a0-6140-11e2-8c6f-0d0126f0c0ea">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="205ad1a2-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="3f45d66a-3b06-11e2-8f18-c5d859cd47bf" />
+                    </predicate>
+                    <predicate guid="f23a215d-3b04-11e2-8f18-c5d859cd47bf">
+                      <object statement-guid="22bd52bb-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="4c96f668-613c-11e2-8c6f-0d0126f0c0ea" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+              <predicate guid="6bb7b474-3e3b-11e2-9941-ff65f3a86106">
+                <object statement-guid="1c7ad84f-6140-11e2-8c6f-0d0126f0c0ea" type="literal">Switches the light on.</object>
+              </predicate>
+            </resource>
+          </object>
+          <object statement-guid="895cfd9e-6140-11e2-8c6f-0d0126f0c0ea">
+            <resource guid="895b76fb-6140-11e2-8c6f-0d0126f0c0ea">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="895b76fd-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="b8393001-3aea-11e2-a11d-5fa022f9bb7d" />
+              </predicate>
+              <predicate guid="5d702796-3b06-11e2-8f18-c5d859cd47bf">
+                <object statement-guid="98fcc6f3-6140-11e2-8c6f-0d0126f0c0ea">
+                  <resource guid="98fb4050-6140-11e2-8c6f-0d0126f0c0ea">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="98fcc6f2-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="3f45d66a-3b06-11e2-8f18-c5d859cd47bf" />
+                    </predicate>
+                    <predicate guid="f23a215d-3b04-11e2-8f18-c5d859cd47bf">
+                      <object statement-guid="99818756-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="509d155e-613c-11e2-8c6f-0d0126f0c0ea" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+              <predicate guid="6bb7b474-3e3b-11e2-9941-ff65f3a86106">
+                <object statement-guid="8d10b6cf-6140-11e2-8c6f-0d0126f0c0ea" type="literal">Switching the light off is delayed for 3 ticks.</object>
+              </predicate>
+            </resource>
+          </object>
+          <object statement-guid="bde3565a-6140-11e2-8c6f-0d0126f0c0ea">
+            <resource guid="bde35657-6140-11e2-8c6f-0d0126f0c0ea">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="bde35659-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="6df56727-3aef-11e2-a11d-5fa022f9bb7d" />
+              </predicate>
+              <predicate guid="3e965e20-3af0-11e2-a11d-5fa022f9bb7d">
+                <object statement-guid="d01c8f51-6140-11e2-8c6f-0d0126f0c0ea" type="literal">3</object>
+              </predicate>
+              <predicate guid="49ffa00b-3b09-11e2-8de0-a368f9740e37">
+                <object statement-guid="d12aa3f5-6140-11e2-8c6f-0d0126f0c0ea">
+                  <resource guid="d12aa3f2-6140-11e2-8c6f-0d0126f0c0ea">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="d12aa3f4-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="9f3030d1-3aea-11e2-a11d-5fa022f9bb7d" />
+                    </predicate>
+                    <predicate guid="a97c1ca2-3ade-11e2-9185-ed73e212ee54">
+                      <object statement-guid="d1b0eaf8-6140-11e2-8c6f-0d0126f0c0ea" type="resource" guid="79c9da88-613c-11e2-8c6f-0d0126f0c0ea" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+              <predicate guid="6bb7b474-3e3b-11e2-9941-ff65f3a86106">
+                <object statement-guid="cfc28870-6140-11e2-8c6f-0d0126f0c0ea" type="literal">The light is switched off after 3 ticks.</object>
+              </predicate>
+            </resource>
+          </object>
+        </predicate>
+        <predicate guid="fb4de0f8-3b00-11e2-8f18-c5d859cd47bf">
+          <object statement-guid="df9bf587-613f-11e2-8c6f-0d0126f0c0ea" type="literal">This test case just switches the lamp on and off. Switching off works with a delay.</object>
+        </predicate>
+        <predicate guid="a73591b2-3b0f-11e2-8de0-a368f9740e37">
+          <object statement-guid="da152a03-613f-11e2-8c6f-0d0126f0c0ea" type="literal">true</object>
+        </predicate>
+        <predicate guid="bf813bff-405d-11e2-9941-ff65f3a86106">
+          <object statement-guid="da152a02-613f-11e2-8c6f-0d0126f0c0ea" type="literal">true</object>
+        </predicate>
+        <predicate guid="9a5daf21-5976-11e2-bf3d-b725e620e694">
+          <object statement-guid="da13a360-613f-11e2-8c6f-0d0126f0c0ea" type="literal">true</object>
+        </predicate>
+        <predicate guid="fa6527c6-5982-11e2-bf3d-b725e620e694">
+          <object statement-guid="da152a01-613f-11e2-8c6f-0d0126f0c0ea" type="literal">false</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

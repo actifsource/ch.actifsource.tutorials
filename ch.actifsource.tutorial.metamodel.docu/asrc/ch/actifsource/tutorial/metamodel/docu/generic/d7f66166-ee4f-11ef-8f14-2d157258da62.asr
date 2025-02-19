@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="d7f66166-ee4f-11ef-8f14-2d157258da62">
+  <owns predicate="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="d7f66193-ee4f-11ef-8f14-2d157258da62" type="resource" guid="d7f66167-ee4f-11ef-8f14-2d157258da62" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d7f6618c-ee4f-11ef-8f14-2d157258da62" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d7f6618d-ee4f-11ef-8f14-2d157258da62" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d7f66193-ee4f-11ef-8f14-2d157258da62">
+      <resource guid="d7f66167-ee4f-11ef-8f14-2d157258da62">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="d7f6618e-ee4f-11ef-8f14-2d157258da62" type="resource" guid="bdde7d1f-c9d5-11e5-9831-156e07955359" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="d7f6618f-ee4f-11ef-8f14-2d157258da62" type="literal">call</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="d7f66190-ee4f-11ef-8f14-2d157258da62" type="resource" guid="ec497725-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="d7f66191-ee4f-11ef-8f14-2d157258da62" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="80ff75d8-e648-11da-90a0-f358fdc0051b">
+          <object statement-guid="434d0565-ee50-11ef-8f14-2d157258da62" type="literal">Every Service consists of least one Call.</object>
+        </predicate>
+        <predicate guid="5ba8fb1b-c0c7-11df-bc15-5b8c4150127a">
+          <object statement-guid="d7f66192-ee4f-11ef-8f14-2d157258da62" type="resource" guid="d7f66161-ee4f-11ef-8f14-2d157258da62" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d7f66194-ee4f-11ef-8f14-2d157258da62" type="literal">Service</object>
+  </predicate>
+  <predicate guid="80ff75d8-e648-11da-90a0-f358fdc0051b">
+    <object statement-guid="34643004-ee50-11ef-8f14-2d157258da62" type="literal">This Service can be used via the Calls provided.</object>
+  </predicate>
+  <predicate guid="e069e5d8-6a95-11dc-b005-61743b7fa30d">
+    <object statement-guid="d7f66195-ee4f-11ef-8f14-2d157258da62" type="literal">true</object>
+  </predicate>
+</resource>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="7c082e68-ee2b-11ef-9f0b-350e377473d3">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7c08557a-ee2b-11ef-9f0b-350e377473d3" type="resource" guid="fca83b99-df31-11ef-8ed1-6d608a3329cb" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7c087c8b-ee2b-11ef-9f0b-350e377473d3" type="literal">TestComponent</object>
+  </predicate>
+</resource>
+

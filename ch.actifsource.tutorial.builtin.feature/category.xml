@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="ch.actifsource.tutorial.builtin.feature">
+      <category name="actifsource.tutorial.category"/>
+   </feature>
+   <category-def name="actifsource.tutorial.category" label="Tutorial Category"/>
+</site>

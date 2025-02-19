@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSettings>
+  <version format="5.6.0" />
+  <resourcepaths>
+    <path>asrc</path>
+    <builtin>codesnippet</builtin>
+    <builtin>core</builtin>
+    <builtin>diagram</builtin>
+    <builtin>modelsnippet</builtin>
+    <builtin>uml</builtin>
+  </resourcepaths>
+  <templatepaths />
+  <ignoreWhitespaceAtLineEnd>false</ignoreWhitespaceAtLineEnd>
+  <executeSaveActions>false</executeSaveActions>
+  <generateJavaModel>true</generateJavaModel>
+  <targetpaths>
+    <targetpath>
+      <path>src</path>
+      <build>
+        <buildConfig>7812651c-b0a1-11e1-8fe9-9da2d2b62b20</buildConfig>
+      </build>
+    </targetpath>
+  </targetpaths>
+</projectSettings>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="39f81714-ee7c-11ef-8f29-099ac721970d">
+  <owns predicate="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="39f83e23-ee7c-11ef-8f29-099ac721970d" type="resource" guid="39f81715-ee7c-11ef-8f29-099ac721970d" />
+    <resource statement-guid="39f83e28-ee7c-11ef-8f29-099ac721970d" type="resource" guid="39f81716-ee7c-11ef-8f29-099ac721970d" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39f83e1d-ee7c-11ef-8f29-099ac721970d" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39f83e1e-ee7c-11ef-8f29-099ac721970d" type="resource" guid="220da015-34a4-11da-bd6c-87efd979775d" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39f83e23-ee7c-11ef-8f29-099ac721970d">
+      <resource guid="39f81715-ee7c-11ef-8f29-099ac721970d">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39f83e1f-ee7c-11ef-8f29-099ac721970d" type="resource" guid="2936588e-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3262fa9c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39f83e20-ee7c-11ef-8f29-099ac721970d" type="resource" guid="2dbfb147-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39f83e21-ee7c-11ef-8f29-099ac721970d" type="literal">min</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="39f83e22-ee7c-11ef-8f29-099ac721970d" type="resource" guid="ec497722-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="39f83e28-ee7c-11ef-8f29-099ac721970d">
+      <resource guid="39f81716-ee7c-11ef-8f29-099ac721970d">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39f83e24-ee7c-11ef-8f29-099ac721970d" type="resource" guid="2936588e-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3262fa9c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39f83e25-ee7c-11ef-8f29-099ac721970d" type="resource" guid="2dbfb147-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="39f83e26-ee7c-11ef-8f29-099ac721970d" type="literal">max</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="39f83e27-ee7c-11ef-8f29-099ac721970d" type="resource" guid="ec497722-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39f83e29-ee7c-11ef-8f29-099ac721970d" type="literal">Cardinality</object>
+  </predicate>
+</resource>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="39f8172f-ee7c-11ef-8f29-099ac721970d">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39f83e7e-ee7c-11ef-8f29-099ac721970d" type="resource" guid="39f8170b-ee7c-11ef-8f29-099ac721970d" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="39f83e7f-ee7c-11ef-8f29-099ac721970d" type="literal">Sedan</object>
+  </predicate>
+  <predicate guid="39f8170c-ee7c-11ef-8f29-099ac721970d">
+    <object statement-guid="39f83e80-ee7c-11ef-8f29-099ac721970d" type="resource" guid="39f81721-ee7c-11ef-8f29-099ac721970d" />
+  </predicate>
+</resource>
+

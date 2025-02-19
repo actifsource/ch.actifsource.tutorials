@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSettings>
+  <version format="5.6.0" />
+  <resourcepaths>
+    <path>asrc</path>
+    <builtin>core</builtin>
+    <builtin>diagram</builtin>
+    <builtin>documentation_metamodel</builtin>
+  </resourcepaths>
+  <templatepaths />
+  <ignoreWhitespaceAtLineEnd>false</ignoreWhitespaceAtLineEnd>
+  <executeSaveActions>false</executeSaveActions>
+  <generateJavaModel>true</generateJavaModel>
+  <targetpaths>
+    <targetpath>
+      <path>docu</path>
+      <build>
+        <buildConfig>095d10ac-00ed-11e3-adfe-0f7600b4598f</buildConfig>
+      </build>
+    </targetpath>
+  </targetpaths>
+</projectSettings>
+

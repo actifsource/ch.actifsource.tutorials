@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="0b1e350b-ee53-11ef-883f-ab05a42d3347">
+  <owns predicate="095d3844-00ed-11e3-adfe-0f7600b4598f">
+    <resource statement-guid="1f37525b-ee53-11ef-883f-ab05a42d3347" type="resource" guid="1f36dd28-ee53-11ef-883f-ab05a42d3347" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0b1e5c1d-ee53-11ef-883f-ab05a42d3347" type="resource" guid="095d3839-00ed-11e3-adfe-0f7600b4598f" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0b1f1f6e-ee53-11ef-883f-ab05a42d3347" type="literal">Service Documentation</object>
+  </predicate>
+  <predicate guid="095d37c7-00ed-11e3-adfe-0f7600b4598f">
+    <object statement-guid="13de5a77-ee53-11ef-883f-ab05a42d3347" type="literal">This is the documentation of the Service Meta Model.</object>
+  </predicate>
+  <predicate guid="095d3844-00ed-11e3-adfe-0f7600b4598f">
+    <object statement-guid="1f37525b-ee53-11ef-883f-ab05a42d3347">
+      <resource guid="1f36dd28-ee53-11ef-883f-ab05a42d3347">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="1f36dd2a-ee53-11ef-883f-ab05a42d3347" type="resource" guid="095d37c3-00ed-11e3-adfe-0f7600b4598f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="20ae61fc-ee53-11ef-883f-ab05a42d3347" type="literal">Service Design</object>
+        </predicate>
+        <predicate guid="095d37c4-00ed-11e3-adfe-0f7600b4598f">
+          <object statement-guid="290a1f6d-ee53-11ef-883f-ab05a42d3347" type="resource" guid="d7f66168-ee4f-11ef-8f14-2d157258da62" />
+        </predicate>
+        <predicate guid="095d37c7-00ed-11e3-adfe-0f7600b4598f">
+          <object statement-guid="328d6cee-ee53-11ef-883f-ab05a42d3347" type="literal">The Service consists of Service Calls which might have zero to many arguments.</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

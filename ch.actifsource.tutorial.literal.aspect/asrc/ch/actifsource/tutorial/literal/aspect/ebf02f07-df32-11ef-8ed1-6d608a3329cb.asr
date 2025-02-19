@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="ebf02f07-df32-11ef-8ed1-6d608a3329cb">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="ebf02f09-df32-11ef-8ed1-6d608a3329cb" type="resource" guid="cf0752a5-0785-11db-af79-437b1ec5a51d" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f568a745-df32-11ef-8ed1-6d608a3329cb" type="literal">DateLiteral</object>
+  </predicate>
+  <predicate guid="c0cc10c6-44d1-11e4-ae59-0560f6197c88">
+    <object statement-guid="ebf0561a-df32-11ef-8ed1-6d608a3329cb" type="resource" guid="eb81a352-44d2-11e4-ae59-0560f6197c88" />
+  </predicate>
+</resource>
+

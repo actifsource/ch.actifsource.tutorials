@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="04b24ec9-dc85-11ef-989a-512b5711da93">
+  <owns predicate="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="61cb029e-dc85-11ef-989a-512b5711da93" type="resource" guid="61cadb8a-dc85-11ef-989a-512b5711da93" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="04b24ecb-dc85-11ef-989a-512b5711da93" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="04b275dd-dc85-11ef-989a-512b5711da93" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="61cb029e-dc85-11ef-989a-512b5711da93">
+      <resource guid="61cadb8a-dc85-11ef-989a-512b5711da93">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="61cb029c-dc85-11ef-989a-512b5711da93" type="resource" guid="bdde7d1f-c9d5-11e5-9831-156e07955359" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="61cb029d-dc85-11ef-989a-512b5711da93" type="literal">member</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="61cb29af-dc85-11ef-989a-512b5711da93" type="resource" guid="ec497725-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="61cb29b0-dc85-11ef-989a-512b5711da93" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="5ba8fb1b-c0c7-11df-bc15-5b8c4150127a">
+          <object statement-guid="61cb29b1-dc85-11ef-989a-512b5711da93" type="resource" guid="0f6ce2ef-dc85-11ef-989a-512b5711da93" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="04b275dc-dc85-11ef-989a-512b5711da93" type="literal">Club</object>
+  </predicate>
+</resource>
+

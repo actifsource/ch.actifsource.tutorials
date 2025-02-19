@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="7dcb73c4-ee59-11ef-883f-ab05a42d3347">
+  <owns predicate="d11b94e6-c4f6-11e1-a04a-9f3e2b719a44">
+    <resource statement-guid="87fb2e18-ee59-11ef-883f-ab05a42d3347" type="resource" guid="87fb2e15-ee59-11ef-883f-ab05a42d3347" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7dcb9ad6-ee59-11ef-883f-ab05a42d3347" type="resource" guid="30b74807-b09c-11e1-8fe9-9da2d2b62b20" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7fa786f4-ee59-11ef-883f-ab05a42d3347" type="literal">ligthOff</object>
+  </predicate>
+  <predicate guid="d11b94e6-c4f6-11e1-a04a-9f3e2b719a44">
+    <object statement-guid="87fb2e18-ee59-11ef-883f-ab05a42d3347">
+      <resource guid="87fb2e15-ee59-11ef-883f-ab05a42d3347">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="87fb2e17-ee59-11ef-883f-ab05a42d3347" type="resource" guid="cd83f317-c69c-11e1-b31d-8f6509a39c93" />
+        </predicate>
+        <predicate guid="f7e0e8fb-b0d9-11e2-afec-790f08c15bec">
+          <object statement-guid="897f0e71-ee59-11ef-883f-ab05a42d3347" type="literal">lightOff</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

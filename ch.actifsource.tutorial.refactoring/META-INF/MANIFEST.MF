@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Refactoring
+Bundle-SymbolicName: ch.actifsource.tutorial.refactoring
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: ch.actifsource.tutorial.refactoring
+Export-Package: ch.actifsource.tutorial.refactoring,
+ ch.actifsource.tutorial.refactoring.generic,
+ ch.actifsource.tutorial.refactoring.generic.javamodel,
+ ch.actifsource.tutorial.refactoring.generic.types,
+ ch.actifsource.tutorial.refactoring.specific,
+ ch.actifsource.tutorial.refactoring.template
+Require-Bundle: ch.actifsource.core;bundle-version="11.6.0",
+ ch.actifsource.ui.refactoring;bundle-version="11.6.0"

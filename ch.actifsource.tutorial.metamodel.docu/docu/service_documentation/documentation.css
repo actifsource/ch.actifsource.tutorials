@@ -1,0 +1,95 @@
+h1 {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 24pt;
+  color: RoyalBlue;
+  padding-top: 12px;
+  padding-bottom: 3px;
+}
+h2 {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+  color: RoyalBlue;
+  padding-top: 12px;
+  padding-bottom: 3px;
+}
+h3 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 16pt;
+  color: RoyalBlue;
+  padding-top: 12px;
+  padding-bottom: 3px;
+}
+a:link {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 12px;
+}
+a:visited {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 12px;
+}
+a:hoover {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 12px;
+  color: orange;
+}
+.box-table-a
+{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 12px;
+  margin: 0px;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+.box-table-a th
+{
+  font-size: 13px;
+  font-weight: normal;
+  text-align: left;
+  padding: 2px;
+  margin: 0px;
+  background: #b9c9fe;
+  border-top: 4px solid #aabcfe;
+  border-bottom: 1px solid #fff;
+  color: #039;
+}
+.box-table-a td
+{
+  padding: 0px;
+  margin: 0px;
+  vertical-align: text-top;
+  background: #e8edff; 
+  border: 1px solid #fff;
+  color: #669;
+}
+.box-table-a td.empty
+{
+  padding: 0px;
+  margin: 0px;
+  background: #ffffff; 
+  border: none;
+  height: 20px;
+}
+
+.box-table-a tr:hover td
+{
+  background: #d0dafd;
+  color: #339;
+}
+#navigation
+{
+  vertical-align: text-top;
+  text-align: left;
+  margin-right: 20px;
+  padding-right: 10px;
+  border-right: 1px dotted;
+}
+#main
+{
+  vertical-align: text-top;
+  margin-left: 20px;
+  padding-left: 20px;
+  text-align: left;
+}
+
+/* Actifsource ID=[095d616f-00ed-11e3-adfe-0f7600b4598f,0b1e350b-ee53-11ef-883f-ab05a42d3347,HG9UORcAn9U3b3v+9idJShBXZAg=] */
