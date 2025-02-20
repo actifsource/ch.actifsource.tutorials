@@ -161,9 +161,6 @@
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="0c72c0e0-eeab-11ef-a3fc-b5c521c52e06" type="literal">Released</object>
               </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="32fc2135-ef93-11ef-9b2b-cf7840ad90d5" type="literal">1</object>
-              </predicate>
             </resource>
           </object>
           <object statement-guid="f6717c4a-eead-11ef-a3fc-b5c521c52e06">
@@ -173,9 +170,6 @@
               </predicate>
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="f6717c49-eead-11ef-a3fc-b5c521c52e06" type="literal">Pushed</object>
-              </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="34021f8d-ef93-11ef-9b2b-cf7840ad90d5" type="literal">2</object>
               </predicate>
             </resource>
           </object>
@@ -271,9 +265,6 @@
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="2497f31f-eeaf-11ef-a3fc-b5c521c52e06" type="literal">On</object>
               </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="34db689b-ef93-11ef-9b2b-cf7840ad90d5" type="literal">1</object>
-              </predicate>
             </resource>
           </object>
           <object statement-guid="3890b62c-eeaf-11ef-a3fc-b5c521c52e06">
@@ -283,9 +274,6 @@
               </predicate>
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="39d78dca-eeaf-11ef-a3fc-b5c521c52e06" type="literal">Off</object>
-              </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="356f4443-ef93-11ef-9b2b-cf7840ad90d5" type="literal">2</object>
               </predicate>
             </resource>
           </object>
@@ -318,9 +306,6 @@
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="91dd82a4-eeb1-11ef-a3fc-b5c521c52e06" type="literal">Dark</object>
               </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="391d7f61-ef93-11ef-9b2b-cf7840ad90d5" type="literal">1</object>
-              </predicate>
             </resource>
           </object>
           <object statement-guid="97287dff-eeb1-11ef-a3fc-b5c521c52e06">
@@ -331,9 +316,6 @@
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="972856ee-eeb1-11ef-a3fc-b5c521c52e06" type="literal">Bright</object>
               </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="3a54c6e9-ef93-11ef-9b2b-cf7840ad90d5" type="literal">2</object>
-              </predicate>
             </resource>
           </object>
           <object statement-guid="9b152111-eeb1-11ef-a3fc-b5c521c52e06">
@@ -343,9 +325,6 @@
               </predicate>
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="9b152110-eeb1-11ef-a3fc-b5c521c52e06" type="literal">Delayed</object>
-              </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="3bfd94f7-ef93-11ef-9b2b-cf7840ad90d5" type="literal">3</object>
               </predicate>
             </resource>
           </object>
@@ -497,9 +476,6 @@
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="3ca5decc-eeb1-11ef-a3fc-b5c521c52e06" type="literal">On</object>
               </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="3d70ad05-ef93-11ef-9b2b-cf7840ad90d5" type="literal">1</object>
-              </predicate>
             </resource>
           </object>
           <object statement-guid="3caa4ba7-eeb1-11ef-a3fc-b5c521c52e06">
@@ -509,9 +485,6 @@
               </predicate>
               <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
                 <object statement-guid="3caa4ba8-eeb1-11ef-a3fc-b5c521c52e06" type="literal">Off</object>
-              </predicate>
-              <predicate guid="e952fd7d-45db-11e1-b5e1-17a47d1bd195">
-                <object statement-guid="3ea7f48b-ef93-11ef-9b2b-cf7840ad90d5" type="literal">2</object>
               </predicate>
             </resource>
           </object>
