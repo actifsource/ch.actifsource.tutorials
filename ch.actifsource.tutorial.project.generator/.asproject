@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSettings>
+  <version format="5.6.0" />
+  <resourcepaths>
+    <path>asrc</path>
+    <builtin>codesnippet</builtin>
+    <builtin>core</builtin>
+    <builtin>diagram</builtin>
+    <builtin>modelsnippet</builtin>
+  </resourcepaths>
+  <templatepaths />
+  <ignoreWhitespaceAtLineEnd>true</ignoreWhitespaceAtLineEnd>
+  <executeSaveActions>true</executeSaveActions>
+  <generateJavaModel>true</generateJavaModel>
+  <targetpaths>
+    <targetpath>
+      <path>src</path>
+      <build>
+        <buildConfig>cc24f89e-f041-11ef-9045-cbf3500551a0</buildConfig>
+        <package>ch.actifsource.tutorial.project.generator.usage.**</package>
+      </build>
+    </targetpath>
+  </targetpaths>
+</projectSettings>
+

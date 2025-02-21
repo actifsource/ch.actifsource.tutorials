@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>TestProject</name>
+  <comment></comment>
+  <projects>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>ch.actifsource.ui.generator.javamodelbuilder</name>
+      <arguments>
+      </arguments>
+    </buildCommand>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+      <arguments>
+      </arguments>
+    </buildCommand>
+    <buildCommand>
+      <name>ch.actifsource.environment.builder</name>
+      <arguments>
+      </arguments>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>ch.actifsource.environment.nature</nature>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
+
+<!-- Actifsource ID=[22223e9d-f03f-11ef-9045-cbf3500551a0,73b7fc8a-f042-11ef-9045-cbf3500551a0,Hash] -->
