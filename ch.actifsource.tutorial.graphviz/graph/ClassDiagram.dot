@@ -1,0 +1,57 @@
+digraph "Class Diagram" {
+  nodesep=0.5;
+  ranksep=1.0;
+  ordering=out;
+  splines=spline;
+
+  subgraph cluster_main {
+    label="Class Diagram";
+    labelloc=t;
+    
+    // classes
+    node [shape=record, style=filled, fillcolor="lightyellow"];
+    Convertible [label="Convertible"];
+    SUV [label="SUV"];
+    Wheel [label="Wheel"];
+    Wing [label="Wing"];
+    Vehicle [label="Vehicle"];
+    Car [label="{Car\l|\
++ drive()\l\
+|\
+# brand\l\
+}"];
+    Bicycle [label="Bicycle"];
+    Airplane [label="{Airplane\l|\
++ fly()\l\
+|\
++ country\l\
+}"];
+    Sedan [label="Sedan"];
+
+    // subtype relations (extends)
+    edge [dir=back, arrowtail=empty, headport=n];
+    Car -> Convertible;
+    Car -> SUV;
+    Vehicle -> Car;
+    Vehicle -> Bicycle;
+    Vehicle -> Airplane;
+    Car -> Sedan;
+    
+    // associations
+    edge [dir=normal, arrowhead=vee, headport="", labeldistance=2.5];
+    Car -> Wheel [taillabel="wheels"
+    , headlabel="4..*"
+    , arrowtail="ediamond", dir=both
+    ];
+    Bicycle -> Wheel [taillabel="wheels"
+    , headlabel="2..2"
+    , arrowtail="ediamond", dir=both
+    ];
+    Airplane -> Wing [taillabel="wings"
+    , headlabel="2..*"
+    , arrowtail="diamond", dir=both
+    ];
+  }
+}
+
+/* Actifsource ID=[39f83d9a-ee7c-11ef-8f29-099ac721970d,a6d1b8c9-cedd-11de-80c2-87ac3b08f930,++BCScZeacrZZDPusAqnSj4v7YM=] */
